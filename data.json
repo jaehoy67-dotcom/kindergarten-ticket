@@ -1,102 +1,191 @@
-[
-  {
-    "barcode (A열)": "*2026001*",
-    "name (B열)": "황하영",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026002*",
-    "name (B열)": "김유준",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026003*",
-    "name (B열)": "최가경",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026004*",
-    "name (B열)": "김나윤",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026005*",
-    "name (B열)": "최아린",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026006*",
-    "name (B열)": "이하윤",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026007*",
-    "name (B열)": "김주안",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026008*",
-    "name (B열)": "박해솔",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026009*",
-    "name (B열)": "박다솔",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026010*",
-    "name (B열)": "이채원",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026011*",
-    "name (B열)": "박도준",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026012*",
-    "name (B열)": "김도희",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026013*",
-    "name (B열)": "이우준",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026014*",
-    "name (B열)": "정설온",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026015*",
-    "name (B열)": "정보겸",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026016*",
-    "name (B열)": "이루담",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026017*",
-    "name (B열)": "신준우",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026018*",
-    "name (B열)": "임태현",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026019*",
-    "name (B열)": "이다윤",
-    "used (C열)": false
-  },
-  {
-    "barcode (A열)": "*2026020*",
-    "name (B열)": "이재빈",
-    "used (C열)": false
-  }
-]
+
+ {
+  "barcode (A열)": "*2026001*",
+  "name (B열)": "황하영",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026002*",
+  "name (B열)": "김유준",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026003*",
+  "name (B열)": "최가경",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026004*",
+  "name (B열)": "김나윤",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026005*",
+  "name (B열)": "최아린",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026006*",
+  "name (B열)": "이하윤",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026007*",
+  "name (B열)": "김주안",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026008*",
+  "name (B열)": "박해솔",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026009*",
+  "name (B열)": "박다솔",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026010*",
+  "name (B열)": "이채원",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026011*",
+  "name (B열)": "박도준",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026012*",
+  "name (B열)": "김도희",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026013*",
+  "name (B열)": "이우준",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026014*",
+  "name (B열)": "정설온",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026015*",
+  "name (B열)": "정보겸",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026016*",
+  "name (B열)": "이루담",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026017*",
+  "name (B열)": "신준우",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026018*",
+  "name (B열)": "임태현",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026019*",
+  "name (B열)": "이다윤",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026020*",
+  "name (B열)": "이재빈",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026021*",
+  "name (B열)": "박설하",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026022*",
+  "name (B열)": "강애리",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026023*",
+  "name (B열)": "황윤정",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026024*",
+  "name (B열)": "김하은",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026025*",
+  "name (B열)": "김시안",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026026*",
+  "name (B열)": "김지아",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026027*",
+  "name (B열)": "황서아",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026028*",
+  "name (B열)": "박채은",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026029*",
+  "name (B열)": "김태윤",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026030*",
+  "name (B열)": "안시우",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026031*",
+  "name (B열)": "배건우",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026032*",
+  "name (B열)": "김유건",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026033*",
+  "name (B열)": "안지혜",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026034*",
+  "name (B열)": "김단아",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026035*",
+  "name (B열)": "이도겸",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026036*",
+  "name (B열)": "김유준(나무)",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026037*",
+  "name (B열)": "볼리나",
+  "used (C열)": false
+ },
+ {
+  "barcode (A열)": "*2026038*",
+  "name (B열)": "미뜨루",
+  "used (C열)": false
+ }
